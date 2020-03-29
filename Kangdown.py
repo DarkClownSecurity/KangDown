@@ -25,7 +25,7 @@ print  "Author     : Mr.TenAr"
 print  "Youtube    : https:.//www.youtube.com/channel/UCTp6yYYTifltFu5x-BzZzCg"
 print  "github     : https://github.com/Aryaalfahrezi010/Kangdown"
 print  "facebook   : https://www.facebook.com/Aryaalfahrezy"
-print  "Team       : Akatsuki Cyber Team"
+print  "Team       : Dark Clown Security"
 print
 ip = raw_input("MASUKIN IP TARGET LU : ")
 port = input("MAUSKIN PORT        :")
